@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bittu Das Lab-3</title>
+        <link rel="stylesheet" href="Das3.css">
+    </head>
+    <body>
+<div>
+    <header>
+        <h1> Welcome to Google </h1>
+<br>
+    </header>
+</div>
+<div id="map"></div>
+<br><br>
+
+
+
+        <script defer type="module" src="Das3.js"></script>
+        <footer> &copy; Bittu Das, 2025 </footer>
+    </body>
+</html>
